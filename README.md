@@ -1,4 +1,4 @@
-# My Portfolio
+# Chrissy's Portfolio 
 
 ## Link to portfolio
 
@@ -7,11 +7,21 @@
 
 ## Description
 
+
 ### Purpose
+# 
 ### Functionality / features
 ### Sitemap
 ### Screenshots
-### Target audience
+
+
+
+### Target audience:::::
+# The audience I would be targeting with my portfolio is future employers 
+
+
+
+
 ### Tech stack (e.g. html, css, deployment platform, etc)
 
 ## Design documentation
