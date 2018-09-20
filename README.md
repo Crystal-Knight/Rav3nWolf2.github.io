@@ -1,18 +1,23 @@
-# Crystal Jade Maria Knight's Portfolio 
+## Crystal Jade Maria Knight's Portfolio 
 
-# Link to portfolio
+<!-- # Link to portfolio -->
 
-# Link to GitHub repo
+<!-- # Link to GitHub repo -->
 
 
-# Description
+#Description
 
 
 # Purpose
- 
-# Functionality / features
+The purpose of my portfolio is to showcase my abilities, personality, previous work for future employers and my own personal benift. 
+
+#Functionality / features
+
 ### Sitemap
+
+
 ### Screenshots
+
 
 
 
@@ -33,6 +38,10 @@ The audience I would be targeting with my portfolio is future employers
 # Details of planning process
 # Project plan & timeline
 # Screenshots of Trello board(s)
+
+
+
+
 
 # Short Answer Q&A - Include short answers to the following questions,
 1. Describe key events in the development of the internet from the 1980s to today (max. 150 words)
