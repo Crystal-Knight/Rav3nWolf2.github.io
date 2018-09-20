@@ -1,6 +1,16 @@
-main {
+/* main {
     display: flex;
     flex-wrap: wrap;
+} */
+
+/* header pane */
+
+nav li a {
+    display: inline-block;
+    padding: 8px 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
 }
 
 /* base styles */
@@ -13,13 +23,7 @@ body {
     background-color: #e0d6d6;
     font-family: "funsized", sans-serif;
     font-size: 1.5rem;
-}
-
-#socialmedia {
-    background-color: #e0d6d6;
-    color: black;
-    padding: 0px;
-    text-align: center;
+    overflow: auto;
 }
 
 /*  more about me */
@@ -38,6 +42,13 @@ body {
     text-align: center;
 }
 
+article {
+    background-color: #e0d6d6;
+    color: black;
+    padding: 0px;
+    text-align: center;
+}
+
 #contact {
     background-color: #e0d6d6;
     color: black;
@@ -45,16 +56,26 @@ body {
     text-align: center;
 }
 
-#myHeader {
+/* contacts page */
+
+#socialmedia {
     background-color: #e0d6d6;
     color: black;
     padding: 0px;
     text-align: center;
 }
 
-article {
-    border: solid 2px black;
+/* contacts page  */
+
+#myHeader {
+    background-color: #e0d6d6;
+    color: black;
+    padding: 0px;
+    text-align: center;
+    overflow: auto;
 }
+
+/* all pages nav pane */
 
 nav {
     font-family: "Karla", Helvetica, sans-serif;
@@ -67,81 +88,37 @@ nav {
     opacity: 0.6;
 }
 
+/* nave pane all pages */
+
 nav li {
     display: inline;
 }
 
-nav li a {
-    display: inline-block;
-    padding: 8px 15px;
-    text-decoration: none;
-    font-weight: bold;
-    color: white;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-
-line {
-    border-right: 1px solid #ccc;
-}
-
-/* contact marign */
-
-/* Banner background */
-
-/* ul {
-    list-style-type: none;
-    margin: 5;
-    padding: 20;
-    overflow: hidden;
-    background-color: black;
-} */
-
-/* Banner text */
-
-/* 
-li a {
-    color: white;
-    text-align: center;
-    padding: 12px 45px;
-    text-decoration: none;
-    float: left;
-    font-style: oblique;
-    font-size: 26px;
-    columns: 2;
-    align-items: center flex-end;
-} */
 
 /* Mobile styles */
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 400px) {
     body {
         background-color: #e0d6d6;
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-        overflow: hidden;
-        background-color: #e0d6d6;
-    }
-    li {
-        float: left;
     }
 }
 
 /* Tablet styles */
 
-@media screen and (min-width: 351px) and (max-width: 760px) {
+@media screen and (min-width: 401px) and (max-width: 960px) {
     body {
         background-color: #e0d6d6;
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-        overflow: hidden;
+    }
+}
+
+/* Desktop styles */
+
+@media screen and (min-width: 500px) {
+    body {
         background-color: #e0d6d6;
     }
-    li {
-        float: left;
-    }
-    /* Desktop styles */
-        {
-        @media screen and (min-width: 861px) {
-            background-color: #e0d6d6;
-        }
