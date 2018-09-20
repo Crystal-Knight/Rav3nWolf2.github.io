@@ -2,8 +2,8 @@
 
 <!-- # Link to portfolio -->
 
-<!-- # Link to GitHub repo --> 
-##Github repo link
+
+## Github repo link 
 https://github.com/Rav3nWolf2/Portfolio
 
 

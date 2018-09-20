@@ -1,37 +1,103 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* base styles */
+
 body {
     margin-top: 10px;
-    background-color: #e0d6d6;
+    padding: 0px;
     width: 100%;
-    height: 300px;
     align-items: center;
+    background-color: #e0d6d6;
+    font-family: "funsized", sans-serif;
     font-size: 1.5rem;
+}
+
+#socialmedia {
+    background-color: #e0d6d6;
+    color: black;
+    padding: 0px;
+    text-align: center;
+}
+
+/*  more about me */
+
+#knowmemore {
+    background-color: #e0d6d6;
+    color: black;
+    padding: 0px;
+    text-align: center;
+}
+
+#links {
+    background-color: #e0d6d6;
+    color: black;
+    padding: 0px;
+    text-align: center;
+}
+
+#contact {
+    background-color: #e0d6d6;
+    color: black;
+    padding: 0px;
+    text-align: center;
+}
+
+#myHeader {
+    background-color: #e0d6d6;
+    color: black;
+    padding: 0px;
+    text-align: center;
+}
+
+article {
+    border: solid 2px black;
+}
+
+nav {
+    font-family: "Karla", Helvetica, sans-serif;
+    width: 100%;
+    margin: 0 0 3em 0;
+    padding: 0;
+    list-style: none;
+    background-color: black;
+    text-align: center;
+    opacity: 0.6;
+}
+
+nav li {
+    display: inline;
+}
+
+nav li a {
+    display: inline-block;
+    padding: 8px 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
+line {
+    border-right: 1px solid #ccc;
 }
 
 /* contact marign */
 
-article {
-    margin-left: 10px;
-    margin-right: 10px;
-}
-
-/* boder around bio; about me */
-
-section {
-    border: dotted 3px black;
-}
-
 /* Banner background */
 
-ul {
+/* ul {
     list-style-type: none;
     margin: 5;
     padding: 20;
     overflow: hidden;
     background-color: black;
-}
+} */
 
 /* Banner text */
 
+/* 
 li a {
     color: white;
     text-align: center;
@@ -42,77 +108,40 @@ li a {
     font-size: 26px;
     columns: 2;
     align-items: center flex-end;
-}
+} */
 
 /* Mobile styles */
 
 @media screen and (max-width: 300px) {
     body {
-        background-color: #e2e0dc;
+        background-color: #e0d6d6;
         list-style-type: none;
         margin: 0;
         padding: 0;
         overflow: hidden;
-        background-color: #f1f1f1;
+        background-color: #e0d6d6;
     }
     li {
         float: left;
     }
-    li a, dropbtn {
-        display: inline-block;
-        color: white;
-        text-align: center;
-        padding: 14px 16px;
-        text-decoration: none;
-    }
-    li a:hover, dropdown:hover dropbtn {
-        background-color: #f1f1f1;
-    }
-    li dropdown {
-        display: inline-block;
-    }
-    dropdown-content {
-        display: none;
-        position: absolute;
-        background-color: white;
-        min-width: 160px;
-        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-        z-index: 1;
-    }
-    dropdown-content a {
-        color: black;
-        padding: 12px 16px;
-        text-decoration: none;
-        display: block;
-        text-align: left;
-    }
-    dropdown-content a:hover {
-        background-color: #ffffff
-    }
-    dropdown:hover dropdown-content {
-        display: block;
-    }
-}
-
 }
 
 /* Tablet styles */
 
 @media screen and (min-width: 351px) and (max-width: 760px) {
     body {
-        background-color: #e2e0dc;
+        background-color: #e0d6d6;
         list-style-type: none;
         margin: 0;
         padding: 0;
         overflow: hidden;
-        background-color: #f1f1f1;
+        background-color: #e0d6d6;
     }
     li {
         float: left;
     }
     /* Desktop styles */
-    {}
-    @media screen and (min-width: 861px) {
-        body {
-            background-color: #f1f1f1;
+        {
+        @media screen and (min-width: 861px) {
+            background-color: #e0d6d6;
         }
