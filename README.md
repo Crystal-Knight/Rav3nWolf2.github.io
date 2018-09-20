@@ -22,12 +22,13 @@ The purpose of my portfolio is to showcase my abilities, personality, previous w
 
 
 # Target audience:::::
-The audience I would be targeting with my portfolio is future employers 
+The audience I would be targeting with my portfolio is future employers.
 
 
 
 
 # Tech stack (e.g. html, css, deployment platform, etc)
+for the purpose of the portfolio i have used HTML, CSS and some bootstrap components.
 
 # Design documentation
 # Design process
