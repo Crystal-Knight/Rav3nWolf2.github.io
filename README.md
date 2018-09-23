@@ -55,14 +55,20 @@ The audience I would be targeting with my portfolio is future employers.
 
 
 # Tech stack (e.g. html, css, deployment platform, etc)
-for the purpose of the portfolio i have used HTML, CSS and some bootstrap components.
+Tech stack used is HTML, CSS and some bootstrap components, and the deployment platform, GitHub pages
 
 
 
-# Design documentation
+
 
 
 # Design process
+
+Wire frames were the beginning of the project as they set the foundation of how I wanted my page to look, next was getting the basic components laid down such as, creating the different VS files to separate code for a cleaner result, then colour and images followed.
+
+After a few mishaps with responsive pages I decided to make a few changes to the code. As placement on desktop vs responsive where not to my liking.
+
+I focused on functionality rather than big glitz and glam, also as I prefer pages that don’t have to much distraction and you can do what you need to do and leave. Therefore usability and the functionally where more my primary focus.
 
 
 #  Wireframes
@@ -92,6 +98,7 @@ The usability considerations were more around colours and contrast, there are no
 
 
 # Project plan & timeline
+![p_20180923_154459](https://user-images.githubusercontent.com/42673737/45924625-41f62100-bf48-11e8-9597-ed2ea84f8eef.jpg)
 
 
 
