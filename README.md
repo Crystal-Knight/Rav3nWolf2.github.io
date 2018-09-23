@@ -3,9 +3,6 @@
 <!-- # Link to portfolio -->
 
 
-
-
-
 ## Trello board link 
 
 https://trello.com/b/DRFRSL5M/portfolio
@@ -37,6 +34,8 @@ there is also external links to pages such as Instagram and my blog as well as G
 ### Sitemap
 
 
+
+
 ### Screenshots
 ![screen shot about me](https://user-images.githubusercontent.com/42673737/45924262-39e5b380-bf3f-11e8-91c4-3b31307d7ce1.PNG)   
 ![screen shot contact](https://user-images.githubusercontent.com/42673737/45924265-5eda2680-bf3f-11e8-8675-b44992192315.PNG)
@@ -52,14 +51,8 @@ there is also external links to pages such as Instagram and my blog as well as G
 The audience I would be targeting with my portfolio is future employers.
 
 
-
-
 # Tech stack (e.g. html, css, deployment platform, etc)
 Tech stack used is HTML, CSS and some bootstrap components, and the deployment platform, GitHub pages
-
-
-
-
 
 
 # Design process
@@ -92,11 +85,6 @@ The usability considerations were more around colours and contrast, there are no
 
 
 
-
-# Details of planning process
-
-
-
 # Project plan & timeline
 ![p_20180923_154459](https://user-images.githubusercontent.com/42673737/45924625-41f62100-bf48-11e8-9597-ed2ea84f8eef.jpg)
 
@@ -105,9 +93,6 @@ The usability considerations were more around colours and contrast, there are no
 # Screenshots of Trello board(s)
 ![trello](https://user-images.githubusercontent.com/42673737/45924317-76fe7580-bf40-11e8-87d2-5edf49cc0173.PNG)
 ![trello2](https://user-images.githubusercontent.com/42673737/45924319-85e52800-bf40-11e8-853b-57f6a6c197ff.PNG)
-
-
-
 
 
 
