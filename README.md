@@ -19,7 +19,7 @@ The purpose of my portfolio is to showcase my abilities, personality, previous w
 
 
 ### Screenshots
-![home]("C:\Users\chris\repos\portfolio\docs/Screen Shot about mecode")
+![home](C:\Users\chris\repos\portfolio\docs/ScreenShotaboutmecode)
 
 
 
