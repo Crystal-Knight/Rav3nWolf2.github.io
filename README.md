@@ -19,6 +19,7 @@ The purpose of my portfolio is to showcase my abilities, personality, previous w
 
 
 ### Screenshots
+<<<<<<< HEAD
 
 ![screen shot about me code](https://user-images.githubusercontent.com/42673737/45924261-2a666a80-bf3f-11e8-902e-ccffd64dbc27.PNG)
 
@@ -46,6 +47,9 @@ The purpose of my portfolio is to showcase my abilities, personality, previous w
 
 
 
+=======
+[C:\Users\chris\repos\portfolio\docs\Screen Shot about me code]
+>>>>>>> f1b8d443b924ca11433e02ace88ceef515a55115
 
 
 
