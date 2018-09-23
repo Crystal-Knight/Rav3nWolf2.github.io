@@ -66,7 +66,13 @@ for the purpose of the portfolio i have used HTML, CSS and some bootstrap compon
 
 
 #  Wireframes
+![wireframe about me](https://user-images.githubusercontent.com/42673737/45924535-0bb7a200-bf46-11e8-8fa2-9126a75a7256.PNG)
+![wireframe contact](https://user-images.githubusercontent.com/42673737/45924541-20943580-bf46-11e8-8b60-3e24a519432a.PNG)
+![wireframe education](https://user-images.githubusercontent.com/42673737/45924544-2b4eca80-bf46-11e8-8ba6-cf5b89f3f6d5.PNG)
+![wireframe projects](https://user-images.githubusercontent.com/42673737/45924546-330e6f00-bf46-11e8-8274-ef42ca20c332.PNG)
 
+
+ 
 
 
 # Personal logo (optional)
