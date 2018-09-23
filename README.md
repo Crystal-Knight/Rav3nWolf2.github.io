@@ -19,7 +19,33 @@ The purpose of my portfolio is to showcase my abilities, personality, previous w
 
 
 ### Screenshots
-![docs](ScreenShotaboutmecode.png)
+
+![screen shot about me code](https://user-images.githubusercontent.com/42673737/45924261-2a666a80-bf3f-11e8-902e-ccffd64dbc27.PNG)
+
+![screen shot about me](https://user-images.githubusercontent.com/42673737/45924262-39e5b380-bf3f-11e8-91c4-3b31307d7ce1.PNG)   
+
+![screen shot contact code](https://user-images.githubusercontent.com/42673737/45924264-54b82800-bf3f-11e8-86ce-9bc4e6cd9e71.PNG)
+
+
+
+![screen shot contact](https://user-images.githubusercontent.com/42673737/45924265-5eda2680-bf3f-11e8-8675-b44992192315.PNG)
+
+
+
+![screen shot css code design](https://user-images.githubusercontent.com/42673737/45924267-68fc2500-bf3f-11e8-95bb-934682e3eeeb.PNG)
+
+
+![screen shot education code](https://user-images.githubusercontent.com/42673737/45924268-731e2380-bf3f-11e8-8dc2-59bd0a84d64c.PNG)
+
+
+
+![screen shot education](https://user-images.githubusercontent.com/42673737/45924270-7d402200-bf3f-11e8-8e15-e1c9fbd05dca.PNG)
+
+
+![screen shot projects](https://user-images.githubusercontent.com/42673737/45924272-86c98a00-bf3f-11e8-9954-95fd18e6a380.PNG)   
+
+
+
 
 
 
