@@ -33,6 +33,12 @@ there is also external links to pages such as Instagram and my blog as well as G
 
 ### Sitemap
 
+The site contains four seperations placed in a nav bar atop the page.
+1. About me
+2. Projects
+3. Education
+4. Contact
+ 
 
 
 
