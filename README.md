@@ -48,7 +48,7 @@ The site contains four separations placed in a nav bar atop the page.
 ![screen shot about me code](https://user-images.githubusercontent.com/42673737/45924261-2a666a80-bf3f-11e8-902e-ccffd64dbc27.PNG)
 
 
-# Target audience:::::
+# Target audience:
 The audience I would be targeting with my portfolio is future employers.
 
 
@@ -108,7 +108,7 @@ We also have the beginning of, YouTube, myspace, google. among many other popula
 
 2.  Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
 
-For a fully functional website all of these components must be deployed, a domain, DNS or Domain Name Server, web Servers and web browsers. A domain is under the control of a registry from which you would have to purchase to have control of. A DNS or Domain Name Sever is the equivalent to a IP address and easier for Humans to remember then a string of numbers. A web server is a combination of hardware and software, the hardware holds all the files needed in order for a website to display all the input a user sees, and the software at a minimum is a user protocol such as a HTTP. And lastly, a web browser is a program such as Fire-Fox. 
+For a fully functional website all of these components must be deployed, a domain, DNS or Domain Name Server, web Servers and web browsers. A domain is under the control of a registry from which you would have to purchase to have control of. A DNS or Domain Name Sever is the equivalent to a IP address and easier for Humans to remember then a string of numbers. A web server is a combination of hardware and software, the hardware holds all the files needed  for a website to display all the input a user sees, and the software at a minimum is a user protocol such as a HTTP. And lastly, a web browser is a program such as Fire-Fox. 
 
 3.  Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
 
