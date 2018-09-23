@@ -6,7 +6,7 @@
 
 
 
-#trello board link 
+## trello board link 
 
 https://trello.com/b/DRFRSL5M/portfolio
 
@@ -15,7 +15,7 @@ https://github.com/Rav3nWolf2/Portfolio
 
 
 
-#Description
+## Description
 My Portfolio
 
 
@@ -25,7 +25,7 @@ The purpose of my portfolio is to showcase my abilities, personality, previous w
 
 
 
-#Functionality / features
+# Functionality / features
 Features include a navigation bar to switch to different parts of the portfolio, when considering the site layout, I thought this would be best for visual reasons and to not overcrowd one page.
 The portfolio is reactive in all screen sizes on all pages. 
 there is also external links to pages such as Instagram and my blog as well as GitHub and LinkedIn for contact purposes.
