@@ -8,7 +8,7 @@
 https://trello.com/b/DRFRSL5M/portfolio
 
 ## Github repo link 
-https://github.com/Rav3nWolf2/Portfolio
+https://github.com/Rav3nWolf2/Rav3nWolf2.github.io
 
 
 ## Description
