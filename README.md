@@ -19,7 +19,7 @@ The purpose of my portfolio is to showcase my abilities, personality, previous w
 
 
 ### Screenshots
-![docs] (Screen Shot about me code.png)
+![docsC:\Users\chris\repos\portfolio\docs/Screen-Shot-about-me-code]
 
 
 
