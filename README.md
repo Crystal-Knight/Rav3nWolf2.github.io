@@ -6,7 +6,7 @@
 
 
 
-## trello board link 
+## Trello board link 
 
 https://trello.com/b/DRFRSL5M/portfolio
 
