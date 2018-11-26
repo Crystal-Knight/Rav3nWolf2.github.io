@@ -1,6 +1,6 @@
 ## Crystal Jade Maria Knight's Portfolio 
 
-https://rav3nwolf2.github.io/
+https://Rav3nWolf2.github.io/
 
 
 
